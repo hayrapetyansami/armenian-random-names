@@ -5,3 +5,5 @@ app անունով ֆունկցիան ունի 3 արգումենտ, առաջի�
 Функция с именем app имеет 3 аргумента, в первом аргументе мы указываем, сколько раз мы хотим, чтобы система генерировала для нас имена, второй и третий аргументы - это минимальный и максимальный возраст людей с сгенерированными именами.
 
 The function named app has 3 arguments, in the first argument we indicate how many times we want the system to generate names for us, the second and third arguments are the minimum and maximum ages of people with generated names.
+
+![image](https://user-images.githubusercontent.com/32421202/117553142-d6154800-b060-11eb-9adf-3fff2c59ed8b.png)
