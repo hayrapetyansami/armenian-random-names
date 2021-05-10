@@ -1,3 +1,5 @@
 import {app} from './services/app';
 
-app(5, 10, 50);
+const test = app(25, 10, 50);
+
+console.log(test);
