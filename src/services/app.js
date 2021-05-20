@@ -4,7 +4,7 @@ export const app = (count, maxAge, minAge) => {
     const users = document.querySelector('#users');
 
     function makeAge () {
-        return Math.floor(Math.random() * (maxAge + 1 - minAge) + minAge);
+        return Math.floor(Math.random() * (maxAge - minAge) + minAge);
     }
 
     const namesDB = [];
